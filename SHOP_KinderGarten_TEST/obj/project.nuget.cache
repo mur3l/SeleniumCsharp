@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "s5TtSQS5Yqg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tauno\\source\\repos\\Migration\\SeleniumCsharp\\SHOP_KinderGarten_TEST\\SHOP_KinderGarten_TEST.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tauno\\.nuget\\packages\\microsoft.applicationinsights\\2.23.0\\microsoft.applicationinsights.2.23.0.nupkg.sha512",
+    "C:\\Users\\tauno\\.nuget\\packages\\microsoft.testing.extensions.telemetry\\1.9.0\\microsoft.testing.extensions.telemetry.1.9.0.nupkg.sha512",
+    "C:\\Users\\tauno\\.nuget\\packages\\microsoft.testing.extensions.trxreport.abstractions\\1.9.0\\microsoft.testing.extensions.trxreport.abstractions.1.9.0.nupkg.sha512",
+    "C:\\Users\\tauno\\.nuget\\packages\\microsoft.testing.extensions.vstestbridge\\1.9.0\\microsoft.testing.extensions.vstestbridge.1.9.0.nupkg.sha512",
+    "C:\\Users\\tauno\\.nuget\\packages\\microsoft.testing.platform\\1.9.0\\microsoft.testing.platform.1.9.0.nupkg.sha512",
+    "C:\\Users\\tauno\\.nuget\\packages\\microsoft.testing.platform.msbuild\\1.9.0\\microsoft.testing.platform.msbuild.1.9.0.nupkg.sha512",
+    "C:\\Users\\tauno\\.nuget\\packages\\microsoft.testplatform.adapterutilities\\17.13.0\\microsoft.testplatform.adapterutilities.17.13.0.nupkg.sha512",
+    "C:\\Users\\tauno\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.13.0\\microsoft.testplatform.objectmodel.17.13.0.nupkg.sha512",
+    "C:\\Users\\tauno\\.nuget\\packages\\nunit\\4.4.0\\nunit.4.4.0.nupkg.sha512",
+    "C:\\Users\\tauno\\.nuget\\packages\\nunit.analyzers\\4.11.2\\nunit.analyzers.4.11.2.nupkg.sha512",
+    "C:\\Users\\tauno\\.nuget\\packages\\nunit3testadapter\\5.2.0\\nunit3testadapter.5.2.0.nupkg.sha512",
+    "C:\\Users\\tauno\\.nuget\\packages\\selenium.webdriver\\4.38.0\\selenium.webdriver.4.38.0.nupkg.sha512",
+    "C:\\Users\\tauno\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
+    "C:\\Users\\tauno\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
