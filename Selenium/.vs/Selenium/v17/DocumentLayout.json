@@ -3,13 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\tauno\\source\\repos\\Migration\\SeleniumCsharp\\Selenium\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AB15AEF9-FBDD-434E-8F82-42D223DD89F4}|..\\SHOP_KinderGarten_TEST\\SHOP_KinderGarten_TEST.csproj|c:\\users\\tauno\\source\\repos\\migration\\seleniumcsharp\\shop_kindergarten_test\\kindergartentest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AB15AEF9-FBDD-434E-8F82-42D223DD89F4}|..\\SHOP_KinderGarten_TEST\\SHOP_KinderGarten_TEST.csproj|c:\\users\\tauno\\source\\repos\\migration\\seleniumcsharp\\shop_kindergarten_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB15AEF9-FBDD-434E-8F82-42D223DD89F4}|..\\SHOP_KinderGarten_TEST\\SHOP_KinderGarten_TEST.csproj|c:\\users\\tauno\\source\\repos\\migration\\seleniumcsharp\\shop_kindergarten_test\\firsttestcase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB15AEF9-FBDD-434E-8F82-42D223DD89F4}|..\\SHOP_KinderGarten_TEST\\SHOP_KinderGarten_TEST.csproj|c:\\users\\tauno\\source\\repos\\migration\\seleniumcsharp\\shop_kindergarten_test\\nunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,40 +29,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tauno\\source\\repos\\Migration\\SeleniumCsharp\\SHOP_KinderGarten_TEST\\Program.cs",
-              "RelativeDocumentMoniker": "..\\SHOP_KinderGarten_TEST\\Program.cs",
-              "ToolTip": "C:\\Users\\tauno\\source\\repos\\Migration\\SeleniumCsharp\\SHOP_KinderGarten_TEST\\Program.cs",
-              "RelativeToolTip": "..\\SHOP_KinderGarten_TEST\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Title": "KinderGartenTEST.cs",
+              "DocumentMoniker": "C:\\Users\\tauno\\source\\repos\\Migration\\SeleniumCsharp\\SHOP_KinderGarten_TEST\\KinderGartenTEST.cs",
+              "RelativeDocumentMoniker": "..\\SHOP_KinderGarten_TEST\\KinderGartenTEST.cs",
+              "ToolTip": "C:\\Users\\tauno\\source\\repos\\Migration\\SeleniumCsharp\\SHOP_KinderGarten_TEST\\KinderGartenTEST.cs*",
+              "RelativeToolTip": "..\\SHOP_KinderGarten_TEST\\KinderGartenTEST.cs*",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T08:10:50.357Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NUnitTest.cs",
-              "DocumentMoniker": "C:\\Users\\tauno\\source\\repos\\Migration\\SeleniumCsharp\\SHOP_KinderGarten_TEST\\NUnitTest.cs",
-              "RelativeDocumentMoniker": "..\\SHOP_KinderGarten_TEST\\NUnitTest.cs",
-              "ToolTip": "C:\\Users\\tauno\\source\\repos\\Migration\\SeleniumCsharp\\SHOP_KinderGarten_TEST\\NUnitTest.cs",
-              "RelativeToolTip": "..\\SHOP_KinderGarten_TEST\\NUnitTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T07:35:52.698Z",
+              "WhenOpened": "2025-11-04T09:02:47.156Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FirstTestCase.cs",
-              "DocumentMoniker": "C:\\Users\\tauno\\source\\repos\\Migration\\SeleniumCsharp\\SHOP_KinderGarten_TEST\\FirstTestCase.cs",
-              "RelativeDocumentMoniker": "..\\SHOP_KinderGarten_TEST\\FirstTestCase.cs",
-              "ToolTip": "C:\\Users\\tauno\\source\\repos\\Migration\\SeleniumCsharp\\SHOP_KinderGarten_TEST\\FirstTestCase.cs",
-              "RelativeToolTip": "..\\SHOP_KinderGarten_TEST\\FirstTestCase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tauno\\source\\repos\\Migration\\SeleniumCsharp\\SHOP_KinderGarten_TEST\\Program.cs",
+              "RelativeDocumentMoniker": "..\\SHOP_KinderGarten_TEST\\Program.cs",
+              "ToolTip": "C:\\Users\\tauno\\source\\repos\\Migration\\SeleniumCsharp\\SHOP_KinderGarten_TEST\\Program.cs",
+              "RelativeToolTip": "..\\SHOP_KinderGarten_TEST\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwFsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T07:28:09.544Z",
+              "WhenOpened": "2025-11-04T08:10:50.357Z",
               "EditorCaption": ""
             }
           ]

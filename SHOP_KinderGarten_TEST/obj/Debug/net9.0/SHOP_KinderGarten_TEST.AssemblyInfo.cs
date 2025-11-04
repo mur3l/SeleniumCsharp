@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SHOP_KinderGarten_TEST")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ed5635d5677f1389bb2969afd9da668e62f9fbb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a53ecae1cc7ad87fa14bb74e77443726a2053bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("SHOP_KinderGarten_TEST")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SHOP_KinderGarten_TEST")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
